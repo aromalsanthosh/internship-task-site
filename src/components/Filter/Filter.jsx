@@ -5,7 +5,7 @@ function Filter() {
         <div className='container-fluid '>
 
             <div className='row'>
-                <div className='col-lg-3 bg-light'>
+                <div className='col-lg-4 bg-light'>
                     <h5>Filter</h5>
                     <hr />
                     <h6 className='text-info'>Topic</h6>
@@ -43,8 +43,7 @@ function Filter() {
                         
                     
                 </div>
-                <div className='col-lg-9'>
-                </div>
+                
                 
             </div>
         
