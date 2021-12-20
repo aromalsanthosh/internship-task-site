@@ -1,7 +1,7 @@
 import React from 'react'
 import './Nav.css'
 //import bootstrap navbar with search bar
-import { Navbar, Nav, Form, FormControl, Button , NavDropdown, Container} from 'react-bootstrap';
+import { Navbar, Nav,  Button , Container} from 'react-bootstrap';
 
 
 function NavBar() {
