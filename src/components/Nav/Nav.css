@@ -1,0 +1,65 @@
+.box{
+    position: relative;
+    left: 500px;
+	width: 500px;
+	height: 40px;
+	background-color: white;
+	border-radius: 30px;
+	display: flex;
+	align-items: center;
+	padding: 20px;
+    border: solid 2px #a19f9f;
+
+}
+
+.box > i {
+
+	font-size: 20px;
+
+	color: #777;
+
+}
+
+.box > input{
+
+    
+	flex: 1;
+
+	height: 40px;
+
+	border: none;
+
+	outline: none;
+
+	font-size: 18px;
+    font-weight: 500;
+
+	padding-left: 10px;
+
+
+}
+
+.login-button{
+    
+        width: 102px;
+        height: 41px;
+        border-radius: 10px;
+        font-weight: 600;
+        background: #DBDFE8;
+        color: black;
+
+}
+
+.nav-items{
+    font-size: 18px;
+    
+}
+
+#nav-link, #nav-link1{
+    color: black;
+    font-weight: 600;
+}
+
+#nav-link:hover, #nav-link1:hover{
+    color: #5c5d61;
+}
