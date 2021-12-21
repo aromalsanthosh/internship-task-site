@@ -1,4 +1,8 @@
+
+
 # Getting Started with Create React App
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b241566-9000-4948-b870-3c2d6185f50f/deploy-status)](https://app.netlify.com/sites/elearningfrontend/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
