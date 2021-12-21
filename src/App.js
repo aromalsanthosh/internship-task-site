@@ -25,10 +25,7 @@ function App() {
           <Courses />
           <Courses />
         </div>
-        <div className="col">
-          <Courses />
-          <Courses />
-        </div>
+        
         <div className='row'>
         <h2 className='mt-4 mb-4 text-left'>Advance Your Career With New Skill</h2>
         </div>
